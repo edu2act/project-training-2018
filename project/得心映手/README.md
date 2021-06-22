@@ -27,7 +27,7 @@
   - Email：3168413055@qq.com
   - Github：https://github.com/jujingxin
 
-### 项目视频
+### 项目视频 [视频](.\image\video.mp4)
 
 <video id="video" controls="" preload="none"> <source id="mp4" src=".\image\video.mp4" type="video/mp4"> </video>
 
